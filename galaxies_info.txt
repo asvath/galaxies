@@ -1,0 +1,31 @@
+#
+
+NGC 185 :
+
+Equatorial coordinates (degrees)	(9.74154,48.3374)
+Time range (MET)	(239557417,447274019)
+Time range (Gregorian)	(2008-08-04 15:43:37,2015-03-05 18:46:59)
+TSTART:239557417.494
+TSTOP:447274018.311
+
+
+NGC4945:
+
+Equatorial coordinates (degrees)	(196.364,-49.4679)
+Time range (MET)	(239557417,447337287)
+Time range (Gregorian)	(2008-08-04 15:43:37,2015-03-06 12:21:27)
+
+TSTART:239557417.494
+TSTOP:447337286.601
+
+M82:
+Equatorial coordinates (degrees)	(148.968,69.6797)
+Time range (MET)	(239557417,447342994)
+Time range (Gregorian)	(2008-08-04 15:43:37,2015-03-06 13:56:34)
+
+TSTART:239557417.494
+TSTOP:447342993.418
+
+
+
+
