@@ -20,11 +20,38 @@ TSTOP:447337286.601
 
 M82:
 Equatorial coordinates (degrees)	(148.968,69.6797)
-Time range (MET)	(239557417,447342994)
-Time range (Gregorian)	(2008-08-04 15:43:37,2015-03-06 13:56:34)
+Time range (MET)	(239557417,447785066)
+Time range (Gregorian)	(2008-08-04 15:43:37,2015-03-11 16:44:26)
 
-TSTART:239557417.494
-TSTOP:447342993.418
+>>> print header["TSTART"]
+239557417.494
+>>> print header["TSTOP"]
+447785064.951
+
+
+>>> print header["TSTART"]
+239557417.0
+
+>>> print header["TSTOP"]
+432088266.0
+---------------------------------
+
+lat_ltcube_weekly_w209_w216_p203_v001.fits
+
+360115417.638
+364957646.085
+
+
+360115417.0
+364957648.0
+
+
+print header["TSTART"]
+360115417.0
+header=pyfits.getheader("lat_photon_weekly_w216_p203_v001.fits")
+>>> print header["TSTOP"]
+364957648.0
+
 
 
 
